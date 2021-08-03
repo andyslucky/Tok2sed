@@ -9,3 +9,7 @@ edition = "2018"
 libtok2me = {git = "https://github.com/andyslucky/libtok2me"}
 clap = "3.0.0-beta.2"
 petgraph = "0.6.0"
+itertools = "0.10.1"
+derive-new = "0.5.9"
+regex = "1.5.4"
+rand = "0.8.4"
