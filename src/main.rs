@@ -130,8 +130,8 @@ struct Pattern {
 
     group_number: u32,
 
-    #[new(default)]
-    negated: bool,
+    // #[new(default)]
+    // negated: bool,
 
     #[new(default)]
     exprs: Vec<TokenOrGroup>,
